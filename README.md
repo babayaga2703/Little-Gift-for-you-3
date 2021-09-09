@@ -8,22 +8,20 @@ Liên lạc:
 Mở file config.js sửa nội dung theo mẫu
 ```
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    introTitle: 'Hallo cậu nha',
+    introDesc: `Chắc là cậu bất ngờ lắm vì nhận được món quà nhỏ này 
+    tớ làm cái này vì nhiều lý do, nhưng chủ yếu là vì cậu đó...`,
+    btnIntro: 'xem tiếp nè',
+    title: 'Tớ đã bị ấn tượng ngay từ lần đầu tiên nhìn thấy cậu, mặc dù chỉ qua học online với fb thôi😔😔',
+    desc: 'nhưng mà hông có sao, cứ xem tiếp đi có vài thứ hay ho đang chờ cậu đó😉😉 ',
+    btnYes: 'Có!tớ biết cậu sẽ chọn bên này mà🥰',
+    btnNo: 'không, mình không có hứng 🙃🙃',
+    question:'cho tớ biết vì sao cậu lại lựa chọn đáp án đó nha 😝',
+    btnReply: 'trả lời xong thì gửi lại cho tớ đi',
+    reply: 'bởi vì tớ muốn biết ý nghĩa thật sự của món quà đó :>>>',
+    mess: 'Tớ biết mà🥰',
+    messDesc: 'bởi vì món quà nhỏ này là để tớ có cơ hội được làm quen với cậu đó, có được hông 👉🏻👈🏻',
+    btnAccept: 'Okiiiii lun :>>>>',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
 ```
