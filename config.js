@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    introTitle: 'Hallo cậu',
+    introDesc: 'chắc cậu bất ngờ lắm ha, đây là món quà nhỏ mà tớ làm, cùng xem nó là gì nha`,
+    btnIntro: 'tiếp tục nè',
+    title: 'từ lần đầu nhìn thấy cậu, tớ cực kì bị ấn tượng lun í, tiếc là chỉ thấy cậu qua fb với học online thui😔😔',
+    desc: 'nhưng mà hông có sao, nhờ đó mà tớ mới có thể làm ra món quà này, xem tiếp nha ',
+    btnYes: 'Có! tớ biết đáp án của cậu mà😉',
+    btnNo: 'Không, mình không có hứng 🙃🙃',
+    question:'cho tớ biết vì sao cậu lại chọn Có đi',
+    btnReply: 'trả lời xong rùi thì gửi lại cho tớ :>>>',
+    reply: 'tớ muốn biết món quà thật sự là gì đó :333',
+    mess: 'Tớ biết mà😊😊món quà nhỏ xíu này...',
+    messDesc: 'có thể giúp tớ làm quen với cậu hông 👉🏻👈🏻',
+    btnAccept: 'Okiiiii lun :>>>',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
